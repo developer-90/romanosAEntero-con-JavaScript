@@ -1,4 +1,4 @@
-# romanosAEntero
+# romanosAEntero con JavaScript
 Convertir numeros romanos a numeros enteros
 
 Creamos una constante 'tablaRomanos' para almacenar los valores numericos.
